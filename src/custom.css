@@ -87,5 +87,9 @@ body, html {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); 
 }
 
+.form-style {
+  border-top-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+}
 
 
