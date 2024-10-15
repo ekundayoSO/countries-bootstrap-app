@@ -29,7 +29,7 @@ const Login = () => {
             <h2 className="title">Login</h2>
           </Col>
           <Col xs={12}>
-            <Form className="mx-auto formContainer">
+            <Form className="mx-auto formContainer form-style">
               <Form.Group className="mb-3" controlId="formBasicEmail">
                 <Form.Label>Email</Form.Label>
                 <Form.Control
