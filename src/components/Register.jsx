@@ -43,7 +43,7 @@ const Register = () => {
           </Col>
           <Col xs={12}>
             <Form
-              className="mx-auto formContainer"
+              className="mx-auto formContainer form-style"
             >
               <Form.Group className="mb-3" controlId="formBasicName">
                 <Form.Label>Name</Form.Label>
