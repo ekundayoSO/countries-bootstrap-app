@@ -24,8 +24,8 @@ The Countries App is a React-based web application that allows users to explore 
 
 # Installation
 1. Clone repository:
-    1. https://github.com/ekundayoSO/countries-bootstrap-react24k-lessons.git
-    2. `cd countries-bootstrap-react24k-lessons`
+    1. https://github.com/ekundayoSO/countries-bootstrap-app.git
+    2. `cd countries-bootstrap-app`
 2. Run the following command to install the required dependencies:
     ```bash
     npm install
