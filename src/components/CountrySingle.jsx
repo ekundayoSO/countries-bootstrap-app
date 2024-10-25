@@ -79,7 +79,7 @@ const CountrySingle = (props) => {
               />
             </div>
             <Button
-              variant="light"
+              variant="primary"
               className="mt-3"
               onClick={() => navigate("/countries")}
             >
